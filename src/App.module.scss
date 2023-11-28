@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+header {
+  width: 100%;
+  background: black;
+  padding: 15px;
+}
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.info-signIn {
+  display: flex;
+}
+
+a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: white
+}
+
